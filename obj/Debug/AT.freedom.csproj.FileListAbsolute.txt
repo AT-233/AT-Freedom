@@ -1,0 +1,6 @@
+D:\编程大法好\AT.freedom\bin\Debug\AT.freedom.dll
+D:\编程大法好\AT.freedom\bin\Debug\AT.freedom.pdb
+D:\编程大法好\AT.freedom\obj\Debug\AT.freedom.csproj.AssemblyReference.cache
+D:\编程大法好\AT.freedom\obj\Debug\AT.freedom.csproj.CoreCompileInputs.cache
+D:\编程大法好\AT.freedom\obj\Debug\AT.freedom.dll
+D:\编程大法好\AT.freedom\obj\Debug\AT.freedom.pdb
